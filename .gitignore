@@ -11,4 +11,5 @@ wheels/
 
 # My added files
 data/
+cache/
 uv.lock
